@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698686786 source:d:\c++\class_emplist\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699103976 source:d:\c++\drawing_lampshades\main.cpp
+	<iostream>
+	"graphics.h"
+	<Windows.h>
+

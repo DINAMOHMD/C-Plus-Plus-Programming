@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698845103 source:d:\c++\comosition(rectangle,point)\main.cpp
+	<iostream>
+	"graphics.h"
+	<Windows.h>
+
+1698845103 source:d:\c++\comosition(rectangle,point,circle,triangle)\main.cpp
+	<iostream>
+	"graphics.h"
+	<Windows.h>
+
+1698845103 source:d:\ddd\c++\comosition(rectangle,point,circle,triangle)\main.cpp
+	<iostream>
+	"graphics.h"
+	<Windows.h>
+

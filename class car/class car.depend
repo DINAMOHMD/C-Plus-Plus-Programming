@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698323281 source:d:\c++\class car\main.cpp
+	<iostream>
+	<string.h>
+
